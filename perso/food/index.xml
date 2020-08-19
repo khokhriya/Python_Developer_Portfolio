@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on HUGO MyPortfolio Theme</title>
+    <link>https://example.org/perso/food/</link>
+    <description>Recent content in Food on HUGO MyPortfolio Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/perso/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MOO MOO</title>
+      <link>https://example.org/perso/food/moo-moo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/moo-moo/</guid>
+      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
+    </item>
+    
+    <item>
+      <title>Some post</title>
+      <link>https://example.org/perso/food/no-photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/no-photos/</guid>
+      <description>Description: This is just a simple post with no photos&amp;hellip; Hence it doesn&amp;rsquo;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.</description>
+    </item>
+    
+    <item>
+      <title>Vietnam</title>
+      <link>https://example.org/perso/food/vietnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/vietnam/</guid>
+      <description>Description: Food from different places in Saigon.</description>
+    </item>
+    
+  </channel>
+</rss>

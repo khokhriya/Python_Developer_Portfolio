@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foie gras on HUGO MyPortfolio Theme</title>
+    <link>https://example.org/tags/foie-gras/</link>
+    <description>Recent content in foie gras on HUGO MyPortfolio Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/tags/foie-gras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MOO MOO</title>
+      <link>https://example.org/perso/food/moo-moo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/moo-moo/</guid>
+      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
+    </item>
+    
+  </channel>
+</rss>

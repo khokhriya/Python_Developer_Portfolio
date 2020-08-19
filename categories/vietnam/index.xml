@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vietnam on HUGO MyPortfolio Theme</title>
+    <link>https://example.org/categories/vietnam/</link>
+    <description>Recent content in vietnam on HUGO MyPortfolio Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/categories/vietnam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human Statues</title>
+      <link>https://example.org/perso/statues/humans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/statues/humans/</guid>
+      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
+    </item>
+    
+    <item>
+      <title>MOO MOO</title>
+      <link>https://example.org/perso/food/moo-moo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/moo-moo/</guid>
+      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
+    </item>
+    
+    <item>
+      <title>Other Statues</title>
+      <link>https://example.org/perso/statues/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/statues/others/</guid>
+      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
+    </item>
+    
+    <item>
+      <title>Vietnam</title>
+      <link>https://example.org/perso/food/vietnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/food/vietnam/</guid>
+      <description>Description: Food from different places in Saigon.</description>
+    </item>
+    
+  </channel>
+</rss>

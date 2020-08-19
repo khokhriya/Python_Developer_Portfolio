@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drawing on HUGO MyPortfolio Theme</title>
+    <link>https://example.org/tags/drawing/</link>
+    <description>Recent content in drawing on HUGO MyPortfolio Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.org/tags/drawing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Different Project</title>
+      <link>https://example.org/pro/the-awesome-company/other-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pro/the-awesome-company/other-project/</guid>
+      <description>Not much more to say, but it is as a &amp;ldquo;bundle&amp;rdquo; post.</description>
+    </item>
+    
+    <item>
+      <title>A Weird Project</title>
+      <link>https://example.org/pro/company/single-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/pro/company/single-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://example.org/perso/drawings/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/drawings/music/</guid>
+      <description>Music drawings&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://example.org/perso/drawings/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/perso/drawings/random/</guid>
+      <description>Drawing(s)&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
