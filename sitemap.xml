@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/blog/project-4/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/project-5/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/project-6/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/project-1/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/project-2/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/project-3/</loc>
+    <lastmod>2020-07-31T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/portfolio/hugo-portfolio-website/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/web-dev/</loc>
+    <lastmod>2020-06-19T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+</urlset>
