@@ -1,2 +1,0 @@
-# Python_Developer_Portfolio
-Python_Developer_Portfolio hello dera
